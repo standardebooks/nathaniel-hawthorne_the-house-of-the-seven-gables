@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/nathaniel-hawthorne/the-house-of-the-seven-gables</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-10-02T02:28:18Z</dc:date>
+		<meta property="dcterms:modified">2024-10-02T02:28:18Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -45,16 +45,19 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008116848</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A dignified but poor woman and her young relative open a shop in a room of a house with a dark history.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Hepzibah Pyncheon is a dignified but destitute woman residing in the House of the Seven Gables—a manor with a dark history, and her ancestral home. She lives with her brother Clifford, who has completed a thirty-year sentence for murder, and a lodger named Holgrave, who is writing a book about the history of her family.&lt;/p&gt;
+			&lt;p&gt;Long ago, Matthew Maule owned the land that the titular house was later built on; but the scheming Colonel Pyncheon, founder of the Pyncheon family, wrongfully seized the land from him, and Maule was accused of witchcraft and condemned to death. Before his sentence was executed, Maule put a curse on the family—and the curse has followed them all the way to Hepzibah, now an older spinster inhabiting the gloomy, moldering house and desperate to make ends meet.&lt;/p&gt;
+			&lt;p&gt;But Hepzibah’s prospects brighten considerably when a distant relative, a bright young girl named Phoebe, arrives to stay for a while, helping her set up and run a small shop in a side room of the manor. As the two work to launch their business in the ill-omened house while caring for the withdrawn Clifford, a strange mystery unravels.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Hawthorne&lt;/a&gt; based his depiction of the House of the Seven Gables on a real house, the Turner-Ingersoll Mansion in Salem, Massachusetts, which was owned by one of his cousins. The Pyncheon family, too, is a real family, ancestors of the novelist Thomas Pynchon—though Hawthorne was unaware of this when he wrote the novel, and was unpleasantly surprised when, on the novel’s success, some of them came out of the woodwork to claim a connection.&lt;/p&gt;
+			&lt;p&gt;The novel was well-received on publication, earning praise from contemporaries like Longfellow and &lt;a href="https://standardebooks.org/ebooks/herman-melville"&gt;Melville&lt;/a&gt;. It has since become a classic of American literature, often taught in schools alongside &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne/the-scarlet-letter"&gt;The Scarlet Letter&lt;/a&gt;&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/77</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_House_of_the_Seven_Gables/w6VVylqibdEC</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">105012</meta>
+		<meta property="se:reading-ease.flesch">56.39</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nathaniel-hawthorne_the-house-of-the-seven-gables</meta>
 		<dc:creator id="author">Nathaniel Hawthorne</dc:creator>
@@ -65,7 +68,7 @@
 		<dc:contributor id="artist">Gerhard Munthe</dc:contributor>
 		<meta property="file-as" refines="#artist">Munthe, Gerhard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Gerhard_Munthe</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/n88212253</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n88212253</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Judith Boss</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Boss, Judith</meta>
