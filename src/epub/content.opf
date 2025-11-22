@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The House of the Seven Gables</dc:title>
 		<meta property="file-as" refines="#title">House of the Seven Gables, The</meta>
-		<meta property="dcterms:alternate" refines="#title">The House of the 7 Gables</meta>
+		<meta property="dcterms:alternative" refines="#title">The House of the 7 Gables</meta>
 		<dc:subject id="subject-1">Historical fiction</dc:subject>
 		<dc:subject id="subject-2">Domestic fiction</dc:subject>
 		<dc:subject id="subject-3">Paranormal fiction</dc:subject>
