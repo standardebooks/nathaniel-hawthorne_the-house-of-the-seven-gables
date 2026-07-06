@@ -61,7 +61,7 @@
 		<meta property="schema:wordCount">104142</meta>
 		<meta property="schema:educationalLevel">56.39</meta>
 		<link href="https://en.wikipedia.org/wiki/The_House_of_the_Seven_Gables" rel="schema:sameAs"/>
-		<meta property="schema:workExample" id="vcs-repository">schema:workExample</meta>
+		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/nathaniel-hawthorne_the-house-of-the-seven-gables" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Nathaniel Hawthorne</dc:creator>
