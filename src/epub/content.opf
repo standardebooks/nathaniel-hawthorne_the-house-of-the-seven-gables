@@ -47,7 +47,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008116848</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>A dignified but poor woman and her young relative open a shop in a room of a house with a dark history.</dc:abstract>
+		<meta property="schema:abstract">A dignified but poor woman and her young relative open a shop in a room of a house with a dark history.</meta>
 		<dc:description>
 			&lt;p&gt;Hepzibah Pyncheon is a dignified but destitute woman residing in the House of the Seven Gables—a manor with a dark history, and her ancestral home. She lives with her brother Clifford, who has completed a thirty-year sentence for murder, and a lodger named Holgrave, who is writing a book about the history of her family.&lt;/p&gt;
 			&lt;p&gt;Long ago, Matthew Maule owned the land that the titular house was later built on; but the scheming Colonel Pyncheon, founder of the Pyncheon family, wrongfully seized the land from him, and Maule was accused of witchcraft and condemned to death. Before his sentence was executed, Maule put a curse on the family—and the curse has followed them all the way to Hepzibah, now an older spinster inhabiting the gloomy, moldering house and desperate to make ends meet.&lt;/p&gt;
